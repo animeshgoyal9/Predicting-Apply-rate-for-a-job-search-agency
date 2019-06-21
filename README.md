@@ -1,4 +1,4 @@
-# Data_Challenge_2
+# Predict Click through rate (CTR) for a website
 
 # Introduction
 
