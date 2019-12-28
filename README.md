@@ -1,4 +1,4 @@
-# Predict Click through rate (CTR) for a website
+# Predict Apply rate for a job search agency
 
 # Introduction
 
