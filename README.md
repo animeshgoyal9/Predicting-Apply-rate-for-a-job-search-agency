@@ -9,7 +9,8 @@ The problem of interest is the prediction of apply rate. Imagine a user visiting
 Each row in the dataset corresponds to a user’s view of a job listing. It has 10 columns as described below.
 1) title proximity tfidf: Measures the closeness of query and job title.
 2) description proximity tfidf: Measures the closeness of query and job description.
-3) main query tfidf: A score related to user query closeness to job title and job description. 4) query jl score: Measures the popularity of query and job listing pair.
+3) main query tfidf: A score related to user query closeness to job title and job description. 
+4) query jl score: Measures the popularity of query and job listing pair.
 5) query title score: Measures the popularity of query and job title pair.
 6) city match: Indicates if the job listing matches to user (or, user-specified) location.
 7) job age days: Indicates the age of job listing posted.
